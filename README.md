@@ -11,10 +11,13 @@ American sign language video anonymization to support online participation of de
 ## Anonymization result examples:
 ### Apply face swap only
 
+![Screenshot](demos/e.gif)
 
-![Screenshot](demos/lrp_example.gif)
+### Apply face swap + skin segmentation for better anonymization results
 
+![Screenshot](demos/f.gif)
 
+![Screenshot](demos/g.gif)
 
 Citation: 
 ```
