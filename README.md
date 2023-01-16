@@ -1,14 +1,16 @@
-# American-Sign-Language-Video-Anonymization-to-Support-Online-Participation-of-Deaf-and-Hard-of-Heari
+# American Sign Language Video Anonymization to Support Online Participation of Deaf and Hard of Hearing Users
 
 Publication:
 
-Sign language video anonymization. Xia, Zhaoyang, Yuxiao Chen, Qilong Zhangli, Matt Huenerfauth, Carol Neidle, and Dimitri Metaxas. In Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources (LREC), pages 202–211, 2022
+American sign language video anonymization to support online participation of deaf and hard of hearing users. Sooyeon Lee, Abraham Glasser, Becca Dingman, Xia, Zhaoyang, Dimitris Metaxas, Carol Neidle, and Matt Huenerfauth. In The 23rd International ACM SIGACCESS Conference on Computers and Accessibility (ASSET), pages 1–13, 2021
 
-[[PDF](https://www.sign-lang.uni-hamburg.de/lrec/pub/22038.pdf)]
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3441852.3471200)][[PDF](https://dl.acm.org/doi/pdf/10.1145/3441852.3471200)]
 
-## This repository contains demos for Sign Language-Video Anonymization paper in LREC'22 sign-lang workshop.
+## This repository contains demos for paper American Sign Language Video Anonymization to Support Online Participation of Deaf and Hard of Hearing Users.
 
 ## Anonymization result examples:
+### Apply face swap only
+
 
 ![Screenshot](demos/lrp_example.gif)
 
